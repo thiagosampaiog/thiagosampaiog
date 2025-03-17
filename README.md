@@ -12,7 +12,7 @@ Estou dando meus primeiros passos no mundo do desenvolvimento backend e aprimora
 - 🔥 **TypeScript** para aplicações seguras e escaláveis  
 - ☁️ **Computação em Nuvem AWS** (EC2, Cloud Practitioner)  
 - 🚀 **Express.js** para criação de APIs  
-- 🛠️ **Postman** para testes e documentação de APIs  
+- 🛠️ **Postman e Swagger** para testes e documentação de APIs  
 
 ---
 
