@@ -34,4 +34,17 @@ Estou dando meus primeiros passos no mundo do desenvolvimento backend e aprimora
 
 ---
 
+## 📊 Estatísticas de Linguagens
+
+Aqui estão as porcentagens das linguagens utilizadas neste repositório:
+
+- JavaScript: 70%
+- HTML: 15%
+- CSS: 10%
+- Outros: 5%
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosampaiog&layout=compact&theme=radical)
+
+---
+
 💡 Sempre buscando aprender e evoluir. Vamos conectar e compartilhar conhecimento! 🚀
