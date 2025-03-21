@@ -31,7 +31,7 @@ Estou dando meus primeiros passos no mundo do desenvolvimento backend e aprimora
 
 ### 📈 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagosampaiog&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagosampaiog)  
 
 ---
 
