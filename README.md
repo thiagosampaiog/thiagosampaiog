@@ -47,4 +47,3 @@ Aqui estão as porcentagens das linguagens utilizadas neste repositório:
 
 ---  
 
-![image](https://github.com/user-attachments/assets/73c5a955-4b74-46d8-ad63-4ba13a383cdf)
