@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&duration=1000&pause=1000&color=000000&background=FFFFFF00&width=435&lines=Hi+there+%F0%9F%91%8B;Me+chamo;Thiago+Sampaio)](https://git.io/typing-svg) 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&duration=1000&pause=1000&color=000000&background=FFFFFF00&width=435&lines=Hi+there+%F0%9F%91%8B;My+name+is;Thiago+Sampaio)](https://git.io/typing-svg) 
   ![line1](https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif)
 
 Atualmente, participo do programa de bolsas da **Compass UOL**, focado em **Node.js e computação em nuvem**. 💻  
