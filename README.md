@@ -30,9 +30,9 @@
 ---
 
 ## 📖 What I'm Learning:
-- ⚡ **Backend with Node.js** (Express.js, Handlebars, npm)
+- ⚡ **Backend with Node.js** (Express.js, Nest.js, Typescript)
 - 🌐 **REST APIs** and service consumption
-- 🗄️ **Databases** (MongoDB, SQL, MySQL, Prisma ORM)
+- 🗄️ **Databases** (MongoDB, MySQL, PostgreSQL, Prisma ORM, TypeORM)
 - 🔥 **TypeScript** for secure and scalable applications
 - ☁️ **Cloud Computing with AWS** (EC2, Cloud Practitioner)
 - 🚀 **API testing & documentation** (Postman, Swagger)
