@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/oiy4HZI.png" alt="Thiago" width="350">
-</p>
+
 
  **About Me**
 - 💻 Currently participating in the **Compass UOL scholarship program**, focused on **Node.js and Cloud Computing**
