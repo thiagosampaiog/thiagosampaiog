@@ -34,7 +34,7 @@ I'm currently studying 4 hours a day with full focus on back-end. I’m learning
       <img src="https://github-readme-stats.vercel.app/api?username=thiagosampaiog&show_icons=true&theme=tokyonight&custom_title=Thiago%20Galdino%20Sampaio's%20GitHub%20Stats&hide_border=true&card_width=450px" width="550"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosampaiog&layout=donut&theme=tokyonight&hide_border=true&card_width=450px" width="550"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosampaiog&layout=donut&theme=tokyonight&hide_border=true&card_width=320px" width="450"/>
     </td>
   </tr>
 </table>
