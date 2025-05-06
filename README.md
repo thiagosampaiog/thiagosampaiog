@@ -2,14 +2,12 @@
 
 # 👨‍💻 Thiago | Node.js Developer & Fullstack in Training
 
-Hey! I'm Thiago, a developer in training focused on Node.js, TypeScript, and building solid APIs. I'm not here to just copy and paste — I'm all about understanding how things work under the hood. On my GitHub, you'll find projects featuring:
+Hey! I'm Thiago, a developer in training focused on Node.js, TypeScript, and building solid APIs. On my GitHub, you'll find projects featuring:
 
-- 🧠 **Strong logic:** I dive deep to really understand the code.
-- 📦 **Solid back-end:** Node.js with Express or NestJS, TypeORM or Prisma, JWT, validations with Zod/class-validator, and databases like PostgreSQL, MySQL, and SQLite.
+- 📦 **Solid back-end:** Node.js with Express or NestJS, TypeORM or Mongoose or Sequelize or Prisma, JWT, validations with Zod/class-validator, and databases like MongoDB, PostgreSQL, MySQL, and SQLite.
 - 🧰 **Clean architecture:** Following best practices with Controller-Service-Repository layers and SOLID principles.
 - ⚙️ **Testing & security:** Using Jest, bcrypt, JWT auth, and strong validations.
-- 🖥️ **Front-end basics:** I’ve worked with HTML, CSS, and JavaScript (DOM manipulation, events).
-- 🧪 **Professional practices:** My projects come with proper README files, environment variables (.env), .gitignore, and organized folder structure.
+- 🖥️ **Front-end: ** I’ve worked with HTML, CSS, and JavaScript.
 
 <p align="center">
   <a href="https://skillicons.dev">
