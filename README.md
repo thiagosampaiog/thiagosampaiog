@@ -29,7 +29,7 @@ I'm currently studying 4 hours a day with full focus on back-end. I’m learning
 <table>
   <tr>
     <td>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thiagosampaiog&theme=tokyonight&hide_border=true" width="550" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-delta-azure.vercel.app?user=thiagosampaiog&theme=ayu-mirage" width="550" alt="GitHub Streak" /></a>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosampaiog&layout=donut&theme=tokyonight&hide_border=true&card_width=320px" width="450"/>
