@@ -7,7 +7,7 @@ Hey! I'm Thiago, a developer in training focused on Node.js, TypeScript, and bui
 - 📦 **Solid back-end:** Node.js with Express or NestJS, TypeORM or Mongoose or Sequelize or Prisma, JWT, validations with Zod/class-validator, and databases like MongoDB, PostgreSQL, MySQL, and SQLite.
 - 🧰 **Clean architecture:** Following best practices with Controller-Service-Repository layers and SOLID principles.
 - ⚙️ **Testing & security:** Using Jest, bcrypt, JWT auth, and strong validations.
-- 🖥️ **Front-end: ** I’ve worked with HTML, CSS, and JavaScript.
+- 🖥️ **Front-end:** I’ve worked with HTML, CSS, and JavaScript.
 
 <p align="center">
   <a href="https://skillicons.dev">
