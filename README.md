@@ -20,10 +20,6 @@ Hey! I'm Thiago, a developer in training focused on Node.js, TypeScript, and bui
   </a>
 </p>
 
-## 🚀 About Me
-
-I'm currently studying 4 hours a day with full focus on back-end. I’m learning how to build from scratch, understand every part of the code, and always find the best way to write things. My goal? To become the best dev I can be — no BS.
-
 ---
 
 <table>
