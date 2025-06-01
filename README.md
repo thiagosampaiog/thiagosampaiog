@@ -10,7 +10,7 @@
   
 #
 
-<img align="right" alt="" height="190px" src="./src/focus-dev.gif">
+<img align="right" alt="" height="220px" src="./src/thiago-mesa.gif">
 
 <h3 align="left">Connect with me!</h3>
 
