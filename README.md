@@ -13,6 +13,12 @@
 
 <img align="right" alt="" height="220px" src="./src/2ee88bf78e4f76001f59bad5e91a6a03.gif">
 
+#
+
+![Recently Starred](https://raw.githubusercontent.com/thiagosampaiog/thiagosampaiog/master/metrics.plugin.stars.svg)
+
+#
+
 <h3 align="left">Connect with me!</h3>
 
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00F6A0)](mailto:thiago.sampaiog@gmail.com)
