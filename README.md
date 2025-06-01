@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00F6A0)](mailto:seu.email.aqui@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00F6A0)](https://www.linkedin.com/in/thiago-sampaiog/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00F6A0)](https://www.instagram.com/seu.insta/)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00F6A0)](mailto:thiago.sampaiog@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00F6A06&color:FFF)](https://www.linkedin.com/in/thiago-sampaiog/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00F6A0)](https://www.instagram.com/tokito.yw/)
 
 <h3 align="left">My Stack: </h3>
 
@@ -37,20 +37,23 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mongo" width="30"/>
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=docker" width="30"/>
+</div>
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=docker" width="30"/>
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" width="30"/>
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=aws" width="30"/>
-  <img width="5" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=jest" width="30"/>
-  <img width="5" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=windows" width="30"/>
-  <img width="5" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=prisma" width="30"/>
-  <img width="5" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=figma" width="30"/>
-  <img width="5" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=html" width="30"/>
 </div>
 
@@ -68,8 +71,7 @@
 
 #
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiagosampaiog/thiagosampaiog/thiagosampaiog/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiagosampaiog/thiagosampaiog/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="snake gif" src="https://raw.githubusercontent.com/thiagosampaiog/thiagosampaiog/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thiagosampaiog/thiagosampaiog/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</p>
+
