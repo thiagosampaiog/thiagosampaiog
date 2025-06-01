@@ -1,13 +1,26 @@
+# 👨‍💻 Thiago | Node.js Backend Developer
 
+Hey! I'm Thiago, a backend developer focused on building clean and solid APIs with Node.js and TypeScript.  
+On my GitHub, you’ll find projects featuring:
 
-# 👨‍💻 Thiago | Node.js Developer & Fullstack in Training
+---
 
-Hey! I'm Thiago, a developer in training focused on Node.js, TypeScript, and building solid APIs. On my GitHub, you'll find projects featuring:
+📦 **Robust back-end**  
+Node.js with Express or NestJS, using PostgreSQL, MySQL, SQLite, or MongoDB with ORMs like Prisma, TypeORM, Sequelize, and Mongoose.
 
-- 📦 **Solid back-end:** Node.js with Express or NestJS, TypeORM or Mongoose or Sequelize or Prisma, JWT, validations with Zod/class-validator, and databases like MongoDB, PostgreSQL, MySQL, and SQLite.
-- 🧰 **Clean architecture:** Following best practices with Controller-Service-Repository layers and SOLID principles.
-- ⚙️ **Testing & security:** Using Jest, bcrypt, JWT auth, and strong validations.
-- 🖥️ **Front-end:** I’ve worked with HTML, CSS, and JavaScript.
+🧰 **Clean architecture**  
+Controller, Service, and Repository layers following SOLID principles and best practices.
+
+🔐 **Security-first**  
+JWT authentication, bcrypt, and strong data validation with Zod or class-validator.
+
+✅ **Well-tested code**  
+Unit and integration tests using Jest, aiming for high test coverage.
+
+🖥️ **Front-end when needed**  
+HTML, CSS, and vanilla JavaScript.
+
+---
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,6 +33,9 @@ Hey! I'm Thiago, a developer in training focused on Node.js, TypeScript, and bui
   </a>
 </p>
 
+
+
+
 ---
 
 <table>
@@ -28,7 +44,7 @@ Hey! I'm Thiago, a developer in training focused on Node.js, TypeScript, and bui
       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-delta-azure.vercel.app?user=thiagosampaiog&theme=ayu-mirage" width="550" alt="GitHub Streak" /></a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosampaiog&layout=donut&theme=tokyonight&hide_border=true&card_width=320px" width="450"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=thiagosampaiog&show_icons=true&theme=ayu-mirage" width="510"/>
     </td>
   </tr>
 </table>
@@ -36,5 +52,7 @@ Hey! I'm Thiago, a developer in training focused on Node.js, TypeScript, and bui
 ---
 💼 **[LinkedIn](https://www.linkedin.com/in/thiago-sampaiog/)**  
 ---
+
+
 
 
