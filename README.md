@@ -10,7 +10,7 @@
   
 #
 
-<img align="right" alt="" height="220px" src="./src/thiago-mesa.gif">
+<img align="right" alt="" height="220px" src="./src/2ee88bf78e4f76001f59bad5e91a6a03.gif">
 
 <h3 align="left">Connect with me!</h3>
 
