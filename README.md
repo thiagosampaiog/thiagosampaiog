@@ -11,9 +11,8 @@
   
 #
 
-<img align="right" alt="" height="220px" src="./src/2ee88bf78e4f76001f59bad5e91a6a03.gif">
+<img align="right" alt="" height="240px" src="./src/eb50875a68b04b0480fa929af2c7547c.gif">
 
-#
 
 <h3 align="left">Connect with me!</h3>
 
