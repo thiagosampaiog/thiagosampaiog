@@ -64,10 +64,10 @@
 <div align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagosampaio&show_icons=true&hide_title=true&theme=radical&bg_color=000000&title_color=00F6A0&text_color=FFFFFF&icon_color=00F6A0" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagosampaiog&show_icons=true&hide_title=true&theme=radical&bg_color=000000&title_color=00F6A0&text_color=FFFFFF&icon_color=00F6A0" alt="GitHub stats">
 
   <a href="https://github.com/thiagosampaiog/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosampaio&layout=compact&langs_count=6&theme=radical&bg_color=000000&title_color=00F6A0&text_color=FFFFFF&hide=html,scss,less" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosampaiog&layout=compact&langs_count=6&theme=radical&bg_color=000000&title_color=00F6A0&text_color=FFFFFF&hide=html,scss,less" alt="Top Langs">
   </a>
 </div>
 
