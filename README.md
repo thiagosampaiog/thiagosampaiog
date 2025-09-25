@@ -1,9 +1,9 @@
 
+#
+
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mulish&duration=3500&pause=500&color=00F6A0&center=true&width=435&lines=%3E+Welcome+to+my+profile+!;My+Name+is+Thiago+Sampaio+%3C;%3E+I'm+a+Software+Developer;Check+out+my+last+project+%3C" alt="Typing SVG" /></a>
 </div>
-
-<img align="center" alt="" src="./src/Banner para Linkedin Tecnologia em Preto (1).png" />
 
 #
 
