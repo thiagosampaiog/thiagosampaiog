@@ -39,6 +39,12 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mongo" width="30"/>
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="30"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="30"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="30"/>
+  <img width="8" />
 </div>
 
 <div align="left">
@@ -57,6 +63,13 @@
   <img src="https://skillicons.dev/icons?i=figma" width="30"/>
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=html" width="30"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="30"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" width="30"/>
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=supabase" width="30"/>
+  <img width="8" />
 </div>
 
 #
