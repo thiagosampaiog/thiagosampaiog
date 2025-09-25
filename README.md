@@ -7,7 +7,7 @@
 
 #
 
-<p align="center">Sou estudante de Sistemas de Informação na Universidade Salvador e atualmente estou no programa de estágio da Compass UOL, onde atuo com Typescript, Node.js e estudo profundamente Amazon Web Services (AWS). Tenho um foco intenso no meu desenvolvimento profissional, buscando constantemente aprender novas tecnologias e melhores práticas de desenvolvimento. 
+<p align="center">Sou estudante de Sistemas de Informação na Universidade Salvador, participei do programa de estágio da Compass UOL, onde atuei com Typescript, Node.js e estudei profundamente Amazon Web Services (AWS). Tenho um foco intenso no meu desenvolvimento profissional, buscando constantemente aprender novas tecnologias e melhores práticas de desenvolvimento. 
   
 #
 
