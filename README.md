@@ -73,9 +73,3 @@
 </div>
 
 
-#
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thiagosampaiog/thiagosampaiog/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</p>
-
